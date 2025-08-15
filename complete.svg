@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="30" fill="#FBC02D"></circle>
+  <!-- badge -->
+  <circle cx="32" cy="30" r="12" fill="#ffffff"></circle>
+  <path d="M26 30l4 4 8-8" fill="none" stroke="#FBC02D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M28 42l4-3 4 3 4-3 0 8-4-2-4 2-4-2-4 2 0-8z" fill="#ffffff"></path>
+</svg>

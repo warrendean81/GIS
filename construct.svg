@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="30" fill="#FBC02D"></circle>
+  <!-- hard hat -->
+  <path d="M18 38c0-8 6-14 14-14s14 6 14 14v4H18v-4z" fill="#ffffff"></path>
+  <rect x="29" y="22" width="6" height="6" rx="2" fill="#ffffff"></rect>
+  <path d="M22 36h20" stroke="#FBC02D" stroke-width="2"></path>
+</svg>

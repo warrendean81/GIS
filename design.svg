@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="30" fill="#FBC02D"></circle>
+  <!-- ruler -->
+  <rect x="16" y="38" width="32" height="6" rx="2" fill="#ffffff"></rect>
+  <g fill="#FBC02D">
+    <rect x="20" y="39" width="1.5" height="4" rx="0.5"></rect>
+    <rect x="24" y="39" width="1.5" height="4" rx="0.5"></rect>
+    <rect x="28" y="39" width="1.5" height="4" rx="0.5"></rect>
+    <rect x="32" y="39" width="1.5" height="4" rx="0.5"></rect>
+    <rect x="36" y="39" width="1.5" height="4" rx="0.5"></rect>
+    <rect x="40" y="39" width="1.5" height="4" rx="0.5"></rect>
+  </g>
+  <!-- pencil -->
+  <path d="M22 24l4-4 16 16-4 4-14-2z" fill="#ffffff"></path>
+  <path d="M42 34l2-2 2 2-2 2z" fill="#ffffff"></path>
+</svg>
