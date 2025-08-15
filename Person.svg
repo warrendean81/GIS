@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- background circle -->
+  <circle cx="32" cy="32" r="30" fill="#42A5F5"></circle>
+  
+  <!-- stick figure runner -->
+  <g stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- head -->
+    <circle cx="32" cy="18" r="3" fill="#FFFFFF" stroke="none"></circle>
+    <!-- torso -->
+    <line x1="32" y1="21" x2="32" y2="34"></line>
+    <!-- arms (both start at the shoulder on the torso) -->
+    <line x1="32" y1="26" x2="24" y2="23"></line>
+    <line x1="32" y1="26" x2="41" y2="28"></line>
+    <!-- legs (both start at the hip on the torso) -->
+    <line x1="32" y1="34" x2="25" y2="44"></line>
+    <line x1="32" y1="34" x2="39" y2="41"></line>
+  </g>
+
+  <!-- soccer ball -->
+  <circle cx="43" cy="46" r="3" fill="#FFFFFF" stroke="none"></circle>
+</svg>
